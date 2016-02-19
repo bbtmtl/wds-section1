@@ -15,10 +15,16 @@ git clone https://github.com/bbtmtl/wds-section1.git
 # 本地修改、增加
 ......
 
+git add .
+
+git commit
+
+git status
+
 # 上传
 git remote add origin https://github.com/bbtmtl/wds-section1.git
 
-git pull 
+git pull origin  master
 
 git push -u origin master
 
