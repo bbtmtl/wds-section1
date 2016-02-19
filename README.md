@@ -14,6 +14,11 @@ git clone https://github.com/bbtmtl/wds-section1.git
 
 # 本地修改、增加
 ......
+git add .
+
+git commit
+
+git status
 
 git add .
 
