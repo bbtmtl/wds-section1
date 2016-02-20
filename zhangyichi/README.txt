@@ -1,3 +1,10 @@
+haha, I am here. 
+Feb 18, 2016 21:48
+
+
+Happy to use git!
+
+
 # wds-section1
 wei-dong-shan 2440 LAB section 1
 git init
