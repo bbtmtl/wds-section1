@@ -9,3 +9,5 @@ my first commit and push was done by Eclipse+Egit without
 a SSH Key (using https insteadi)
 
 using command line -- gitbash to clone and push
+
+using Eclipse under Ubuntu
