@@ -1,0 +1,9 @@
+*.a
+*.o
+*.bak
+*.ko
+*.dis
+*.bin
+i2c_elf
+
+
