@@ -1,0 +1,445 @@
+-sh: syntax error: "(" unexpected
+# CPU0: D VIVT write-back cache
+-sh: CPU0:: not found
+# CPU0: I cache: 16384 bytes, associativity 64, 32 byte lines, 8 sets
+-sh: CPU0:: not found
+# CPU0: D cache: 16384 bytes, associativity 64, 32 byte lines, 8 sets
+-sh: CPU0:: not found
+# Built 1 zonelists.  Total pages: 16256
+-sh: Built: not found
+# Kernel command line: noinitrd root=/dev/nfs nfsroot=192.168.0.105:/work/nfs_root/first_fs ip=192.168.0.17:192.168.0.105:192.168.0.1:255.255.255.0:eth0 init=/linuxrc console=ttySAC0
+-sh: Kernel: not found
+# irq: clearing subpending status 00000002
+-sh: irq:: not found
+# PID hash table entries: 256 (order: 8, 1024 bytes)
+-sh: syntax error: "(" unexpected
+# timer tcon=00500000, tcnt a2c1, tcfg 00000200,00000000, usec 00001eb8
+-sh: timer: not found
+# Console: colour dummy device 80x30
+-sh: Console:: not found
+# Dentry cache hash table entries: 8192 (order: 3, 32768 bytes)
+-sh: syntax error: "(" unexpected
+# Inode-cache hash table entries: 4096 (order: 2, 16384 bytes)
+-sh: syntax error: "(" unexpected
+# Memory: 64MB = 64MB total
+-sh: Memory:: not found
+# Memory: 60976KB available (3264K code, 458K data, 140K init)
+-sh: syntax error: "(" unexpected
+# Mount-cache hash table entries: 512
+-sh: Mount-cache: not found
+# CPU: Testing write buffer coherency: ok
+-sh: CPU:: not found
+# NET: Registered protocol family 16
+-sh: NET:: not found
+# S3C2410 Power Management, (c) 2004 Simtec Electronics
+-sh: syntax error: "(" unexpected
+# S3C2440: Initialising architecture
+-sh: S3C2440:: not found
+# S3C2440: IRQ Support
+-sh: S3C2440:: not found
+# S3C2440: Clock Support, DVS off
+-sh: S3C2440:: not found
+# S3C24XX DMA Driver, (c) 2003-2004,2006 Simtec Electronics
+-sh: syntax error: "(" unexpected
+# DMA channel 0 at c4800000, irq 33
+-sh: DMA: not found
+# DMA channel 1 at c4800040, irq 34
+-sh: DMA: not found
+# DMA channel 2 at c4800080, irq 35
+-sh: DMA: not found
+# DMA channel 3 at c48000c0, irq 36
+-sh: DMA: not found
+# SCSI subsystem initialized
+-sh: SCSI: not found
+# usbcore: registered new interface driver usbfs
+-sh: usbcore:: not found
+# usbcore: registered new interface driver hub
+-sh: usbcore:: not found
+# usbcore: registered new device driver usb
+-sh: usbcore:: not found
+# NET: Registered protocol family 2
+-sh: NET:: not found
+# IP route cache hash table entries: 1024 (order: 0, 4096 bytes)
+-sh: syntax error: "(" unexpected
+# TCP established hash table entries: 2048 (order: 2, 16384 bytes)
+-sh: syntax error: "(" unexpected
+# TCP bind hash table entries: 2048 (order: 1, 8192 bytes)
+-sh: syntax error: "(" unexpected
+# TCP: Hash tables configured (established 2048 bind 2048)
+-sh: syntax error: "(" unexpected
+# TCP reno registered
+-sh: TCP: not found
+# NetWinder Floating Point Emulator V0.97 (double precision)
+-sh: syntax error: "(" unexpected
+# Registering GDB sysrq handler
+-sh: Registering: not found
+# JFFS2 version 2.2. (NAND)  2001-2006 Red Hat, Inc.
+-sh: syntax error: "(" unexpected
+# yaffs Aug 23 2013 15:33:07 Installing. 
+-sh: yaffs: not found
+# io scheduler noop registered
+-sh: io: not found
+# io scheduler anticipatory registered (default)
+-sh: syntax error: "(" unexpected
+# io scheduler deadline registered
+-sh: io: not found
+# io scheduler cfq registered
+-sh: io: not found
+# Console: switching to colour frame buffer device 60x34
+-sh: Console:: not found
+# fb0: s3c2410fb frame buffer device
+-sh: fb0:: not found
+# lp: driver loaded but no devices found
+-sh: lp:: not found
+# ppdev: user-space parallel port driver
+-sh: ppdev:: not found
+# S3C2410 Watchdog Timer, (c) 2004 Simtec Electronics
+-sh: syntax error: "(" unexpected
+# Serial: 8250/16550 driver $Revision: 1.90 $ 4 ports, IRQ sharing enabled
+-sh: Serial:: not found
+# s3c2440-uart.0: s3c2410_serial0 at MMIO map 0x50000000 mem 0xf0400000 (irq = 70) is a S3C2440
+-sh: syntax error: "(" unexpected
+# s3c2440-uart.1: s3c2410_serial1 at MMIO map 0x50004000 mem 0xf0404000 (irq = 73) is a S3C2440
+-sh: syntax error: "(" unexpected
+# s3c2440-uart.2: s3c2410_serial2 at MMIO map 0x50008000 mem 0xf0408000 (irq = 76) is a S3C2440
+-sh: syntax error: "(" unexpected
+# RAMDISK driver initialized: 16 RAM disks of 4096K size 1024 blocksize
+-sh: RAMDISK: not found
+# loop: module loaded
+-sh: loop:: not found
+# line 400 <DM9KS> I/O: c486a000, VID: 90000a46 
+-sh: cannot open DM9KS: no such file
+-sh: line: not found
+# line 408 <DM9KS> I/O: c486a000, VID: 90000a46 
+-sh: cannot open DM9KS: no such file
+-sh: line: not found
+# <DM9KS> error version, chip_revision = 0x1a, chip_info = 0x3
+-sh: cannot open DM9KS: no such file
+-sh: version,: not found
+# id_val=0
+# S3C24XX NAND Driver, (c) 2004 Simtec Electronics
+-sh: syntax error: "(" unexpected
+# s3c2440-nand s3c2440-nand: Tacls=3, 30ns Twrph0=7 70ns, Twrph1=3 30ns
+-sh: s3c2440-nand: not found
+# NAND device: Manufacturer ID: 0xec, Chip ID: 0xda (Samsung NAND 256MiB 3,3V 8-bit)
+-sh: syntax error: "(" unexpected
+# Scanning device for bad blocks
+-sh: Scanning: not found
+# Bad eraseblock 54 at 0x006c0000
+-sh: Bad: not found
+# Bad eraseblock 232 at 0x01d00000
+-sh: Bad: not found
+# Bad eraseblock 450 at 0x03840000
+-sh: Bad: not found
+# Bad eraseblock 556 at 0x04580000
+-sh: Bad: not found
+# Bad eraseblock 848 at 0x06a00000
+-sh: Bad: not found
+# Bad eraseblock 1346 at 0x0a840000
+-sh: Bad: not found
+# Bad eraseblock 1492 at 0x0ba80000
+-sh: Bad: not found
+# Bad eraseblock 1811 at 0x0e260000
+-sh: Bad: not found
+# Creating 4 MTD partitions on "NAND 256MiB 3,3V 8-bit":
+-sh: Creating: not found
+# 0x00000000-0x00040000 : "bootloader"
+-sh: 0x00000000-0x00040000: not found
+# 0x00040000-0x00060000 : "params"
+-sh: 0x00040000-0x00060000: not found
+# 0x00060000-0x00260000 : "kernel"
+-sh: 0x00060000-0x00260000: not found
+# 0x00260000-0x10000000 : "root"
+-sh: 0x00260000-0x10000000: not found
+# s3c2410-ohci s3c2410-ohci: S3C24XX OHCI
+-sh: s3c2410-ohci: not found
+# s3c2410-ohci s3c2410-ohci: new USB bus registered, assigned bus number 1
+-sh: s3c2410-ohci: not found
+# s3c2410-ohci s3c2410-ohci: irq 42, io mem 0x49000000
+-sh: s3c2410-ohci: not found
+# usb usb1: configuration #1 chosen from 1 choice
+-sh: usb: not found
+# hub 1-0:1.0: USB hub found
+-sh: hub: not found
+# hub 1-0:1.0: 2 ports detected
+-sh: hub: not found
+# Initializing USB Mass Storage driver...
+-sh: Initializing: not found
+# usbcore: registered new interface driver usb-storage
+-sh: usbcore:: not found
+# USB Mass Storage support registered.
+-sh: USB: not found
+# mice: PS/2 mouse device common for all mice
+-sh: mice:: not found
+# s3c2410 TouchScreen successfully loaded
+-sh: s3c2410: not found
+# input: s3c2410 TouchScreen as /class/input/input0
+-sh: input:: not found
+# S3C24XX RTC, (c) 2004,2006 Simtec Electronics
+-sh: syntax error: "(" unexpected
+# s3c2440-i2c s3c2440-i2c: slave address 0x10
+-sh: s3c2440-i2c: not found
+# s3c2440-i2c s3c2440-i2c: bus frequency set to 390 KHz
+-sh: s3c2440-i2c: not found
+# s3c2440-i2c s3c2440-i2c: i2c-0: S3C I2C adapter
+-sh: s3c2440-i2c: not found
+# mapped channel 0 to 0
+-sh: mapped: not found
+# s3c2440-sdi s3c2440-sdi: powered down.
+-sh: s3c2440-sdi: not found
+# s3c2440-sdi s3c2440-sdi: initialisation done.
+-sh: s3c2440-sdi: not found
+# s3c2440-sdi s3c2440-sdi: running at 0kHz (requested: 0kHz).
+-sh: syntax error: "(" unexpected
+# s3c2440-sdi s3c2440-sdi: running at 196kHz (requested: 195kHz).
+-sh: syntax error: "(" unexpected
+# s3c2440-sdi s3c2440-sdi: running at 196kHz (requested: 195kHz).
+-sh: syntax error: "(" unexpected
+# s3c2440-sdi s3c2440-sdi: running at 196kHz (requested: 195kHz).
+-sh: syntax error: "(" unexpected
+# usbcore: registered new interface driver hiddev
+-sh: usbcore:: not found
+# s3c2440-sdi s3c2440-sdi: CMD[TIMEOUT] #2 op:UNKNOWN(8) arg:0x000001aa flags:0x0875 retries:0 Status:nothing to complete
+-sh: s3c2440-sdi: not found
+# s3c2440-sdi s3c2440-sdi: CMD[TIMEOUT] #3 op:APP_CMD(55) arg:0x00000000 flags:0x0875 retries:0 Status:nothing to complete
+usbcore: registered new interface driver usbhid
+drivers/hid/usbhid/hid-core.c: v2.6:USB HID core driver
+Advanced Linux Sound Architecture Driver Version 1.0.14 (Thu May 31 09:03:25 2007 UTC).
+ASoC version 0.13.1
+s3c2440-sdi s3c2440-sdi: CMD[TIMEOUT] #4 op:APP_CMD(55) arg:0x00000000 flags:0x0875 retries:0 Status:nothing to complete
+-sh: s3c2440-sdi: not found
+# usbcore: registered new interface driver usbhid
+-sh: usbcore:: not found
+# drivers/hid/usbhid/hid-core.c: v2.6:USB HID core driver
+-sh: drivers/hid/usbhid/hid-core.c:: not found
+# Advanced Linux Sound Architecture Driver Version 1.0.14 (Thu May 31 09:03:25 2007 UTC).
+-sh: syntax error: "(" unexpected
+# ASoC version 0.13.1
+-sh: ASoC: not found
+# s3c2440-sdi s3c2440-sdi: CMD[TIMEOUT] #4 op:APP_CMD(55) arg:0x00000000 flags:0x0875 retries:0 Status:nothing to complete
+s3c2440-sdi s3c2440-sdi: CMD[TIMEOUT] #5 op:APP_CMD(55) arg:0x00000000 flags:0x0-sh: s3c2440-sdi: not found
+# s3c2440-sdi s3c2440-sdi: CMD[TIMEOUT] #5 op:APP_CMD(55) arg:0x00000000 flags:0x0875 retries:0 Status:nothing to complete
+s3c2410iis_probe...
+s3c2440-sdi s3c2440-sdi: CMD[TIMEOUT] #6 op:APP_CMD(55) arg:0x00000000 flags:0x0875 retries:0 Status:nothing to complete
+s3c2440-sdi s3c2440-sdi: CMD[TIMEOUT] #7 op:ALL_SEND_OCR(1) arg:0x00000000 flags:0x0861 retries:0 Status:nothing to complete
+-sh: s3c2440-sdi: not found
+# s3c2410iis_probe...
+-sh: s3c2410iis_probe...: not found
+# s3c2440-sdi s3c2440-sdi: CMD[TIMEOUT] #6 op:APP_CMD(55) arg:0x00000000 flags:0x0875 retries:0 Status:nothing to complete
+s3c2440-sdi s3c2440-sdi: powered down.
+UDA1341 audio driver initialized
+ALSA device list:
+  No soundcards found.
+TCP cubic registered
+NET: Registered protocol family 1
+drivers/rtc/hctosys.c: unable to open rtc device (rtc0)
+IP-Config: Complete:
+-sh: s3c2440-sdi: not found
+# s3c2440-sdi s3c2440-sdi: CMD[TIMEOUT] #7 op:ALL_SEND_OCR(1) arg:0x00000000 flags:0x0861 retries:0 Status:nothing to complete
+-sh: s3c2440-sdi: not found
+# s3c2440-sdi s3c2440-sdi: powered down.
+-sh: s3c2440-sdi: not found
+# UDA1341 audio driver initialized
+-sh: UDA1341: not found
+# ALSA device list:
+-sh: ALSA: not found
+#   No soundcards found.
+-sh: No: not found
+# TCP cubic registered
+-sh: TCP: not found
+# NET: Registered protocol family 1
+-sh: NET:: not found
+# drivers/rtc/hctosys.c: unable to open rtc device (rtc0)
+-sh: syntax error: "(" unexpected
+# IP-Config: Complete:
+-sh: IP-Config:: not found
+#       device=eth0, addr=192.168.0.17, mask=255.255.255.0, gw=192.168.0.1,
+#      host=eth0, domain=, nis-domain=(none),
+-sh: syntax error: "(" unexpected
+#      bootserver=192.168.0.105, rootserver=192.168.0.105, rootpath=
+# Looking up port of RPC 100003/2 on 192.168.0.105
+-sh: Looking: not found
+# Looking up port of RPC 100005/1 on 192.168.0.105
+-sh: Looking: not found
+# VFS: Mounted root (nfs filesystem).
+-sh: syntax error: "(" unexpected
+# Freeing init memory: 140K
+-sh: Freeing: not found
+# init started: BusyBox v1.7.0 (2016-02-03 01:36:24 CST)
+-sh: syntax error: "(" unexpected
+# starting pid 765, tty '': '/etc/init.d/rcS'
+-sh: starting: not found
+# mount: mounting tmpfs on /tmp failed: No such file or directory
+-sh: mount:: not found
+# mkdir: cannot create directory '/dev/pts': File exists
+-sh: mkdir:: not found
+# 
+# Please press Enter to activate this console. 
+
+U-Boot 1.1.6 (Jan 25 2016 - 03:00:47)
+
+DRAM:  64 MB
+Flash:  0 kB
+NAND:  256 MiB
+In:    serial
+Out:   serial
+Err:   serial
+UPLLVal [M:38h,P:2h,S:2h]
+MPLLVal [M:5ch,P:1h,S:1h]
+CLKDIVN:5h
+
+
++---------------------------------------------+
+| S3C2440A USB Downloader ver R0.03 2004 Jan  |
++---------------------------------------------+
+USB: IN_ENDPOINT:1 OUT_ENDPOINT:3
+FORMAT: <ADDR(DATA):4>+<SIZE(n+10):4>+<DATA:n>+<CS:2>
+NOTE: Power off/on or press the reset button for 1 sec
+      in order to get a valid USB device address.
+
+Hit any key to stop autoboot:  0 
+Booting Linux ...
+
+NAND read: device 0 offset 0x60000, size 0x200000
+
+Reading data from 0x25f800 -- 100% complete.
+ 2097152 bytes read: OK
+## Booting image at 30007fc0 ...
+   Image Name:   Linux-2.6.22.6
+   Created:      2013-08-23   7:33:38 UTC
+   Image Type:   ARM Linux Kernel Image (uncompressed)
+   Data Size:    1848668 Bytes =  1.8 MB
+   Load Address: 30008000
+   Entry Point:  30008000
+   Verifying Checksum ... OK
+   XIP Kernel Image ... OK
+
+Starting kernel ...
+
+Uncompressing Linux...................................................................................................................... done, booting the kernel.
+Linux version 2.6.22.6 (book@book-desktop) (gcc version 3.4.5) #1 Fri Aug 23 15:33:35 CST 2013
+CPU: ARM920T [41129200] revision 0 (ARMv4T), cr=c0007177
+Machine: SMDK2440
+Memory policy: ECC disabled, Data cache writeback
+CPU S3C2440A (id 0x32440001)
+S3C244X: core 400.000 MHz, memory 100.000 MHz, peripheral 50.000 MHz
+S3C24XX Clocks, (c) 2004 Simtec Electronics
+CLOCK: Slow mode (1.500 MHz), fast, MPLL on, UPLL on
+CPU0: D VIVT write-back cache
+CPU0: I cache: 16384 bytes, associativity 64, 32 byte lines, 8 sets
+CPU0: D cache: 16384 bytes, associativity 64, 32 byte lines, 8 sets
+Built 1 zonelists.  Total pages: 16256
+Kernel command line: noinitrd root=/dev/nfs nfsroot=192.168.0.105:/work/nfs_root/first_fs ip=192.168.0.17:192.168.0.105:192.168.0.1:255.255.255.0:eth0 init=/linuxrc console=ttySAC0
+irq: clearing subpending status 00000003
+irq: clearing subpending status 00000002
+PID hash table entries: 256 (order: 8, 1024 bytes)
+timer tcon=00500000, tcnt a2c1, tcfg 00000200,00000000, usec 00001eb8
+Console: colour dummy device 80x30
+Dentry cache hash table entries: 8192 (order: 3, 32768 bytes)
+Inode-cache hash table entries: 4096 (order: 2, 16384 bytes)
+Memory: 64MB = 64MB total
+Memory: 60976KB available (3264K code, 458K data, 140K init)
+Mount-cache hash table entries: 512
+CPU: Testing write buffer coherency: ok
+NET: Registered protocol family 16
+S3C2410 Power Management, (c) 2004 Simtec Electronics
+S3C2440: Initialising architecture
+S3C2440: IRQ Support
+S3C2440: Clock Support, DVS off
+S3C24XX DMA Driver, (c) 2003-2004,2006 Simtec Electronics
+DMA channel 0 at c4800000, irq 33
+DMA channel 1 at c4800040, irq 34
+DMA channel 2 at c4800080, irq 35
+DMA channel 3 at c48000c0, irq 36
+SCSI subsystem initialized
+usbcore: registered new interface driver usbfs
+usbcore: registered new interface driver hub
+usbcore: registered new device driver usb
+NET: Registered protocol family 2
+IP route cache hash table entries: 1024 (order: 0, 4096 bytes)
+TCP established hash table entries: 2048 (order: 2, 16384 bytes)
+TCP bind hash table entries: 2048 (order: 1, 8192 bytes)
+TCP: Hash tables configured (established 2048 bind 2048)
+TCP reno registered
+NetWinder Floating Point Emulator V0.97 (double precision)
+Registering GDB sysrq handler
+JFFS2 version 2.2. (NAND) © 2001-2006 Red Hat, Inc.
+yaffs Aug 23 2013 15:33:07 Installing. 
+io scheduler noop registered
+io scheduler anticipatory registered (default)
+io scheduler deadline registered
+io scheduler cfq registered
+Console: switching to colour frame buffer device 60x34
+fb0: s3c2410fb frame buffer device
+lp: driver loaded but no devices found
+ppdev: user-space parallel port driver
+S3C2410 Watchdog Timer, (c) 2004 Simtec Electronics
+Serial: 8250/16550 driver $Revision: 1.90 $ 4 ports, IRQ sharing enabled
+s3c2440-uart.0: s3c2410_serial0 at MMIO map 0x50000000 mem 0xf0400000 (irq = 70) is a S3C2440
+s3c2440-uart.1: s3c2410_serial1 at MMIO map 0x50004000 mem 0xf0404000 (irq = 73) is a S3C2440
+s3c2440-uart.2: s3c2410_serial2 at MMIO map 0x50008000 mem 0xf0408000 (irq = 76) is a S3C2440
+RAMDISK driver initialized: 16 RAM disks of 4096K size 1024 blocksize
+loop: module loaded
+line 400 <DM9KS> I/O: c486a000, VID: 90000a46 
+line 408 <DM9KS> I/O: c486a000, VID: 90000a46 
+<DM9KS> error version, chip_revision = 0x1a, chip_info = 0x3
+id_val=0
+S3C24XX NAND Driver, (c) 2004 Simtec Electronics
+s3c2440-nand s3c2440-nand: Tacls=3, 30ns Twrph0=7 70ns, Twrph1=3 30ns
+NAND device: Manufacturer ID: 0xec, Chip ID: 0xda (Samsung NAND 256MiB 3,3V 8-bit)
+Scanning device for bad blocks
+Bad eraseblock 54 at 0x006c0000
+Bad eraseblock 232 at 0x01d00000
+Bad eraseblock 450 at 0x03840000
+Bad eraseblock 556 at 0x04580000
+Bad eraseblock 848 at 0x06a00000
+Bad eraseblock 1346 at 0x0a840000
+Bad eraseblock 1492 at 0x0ba80000
+Bad eraseblock 1811 at 0x0e260000
+Creating 4 MTD partitions on "NAND 256MiB 3,3V 8-bit":
+0x00000000-0x00040000 : "bootloader"
+0x00040000-0x00060000 : "params"
+0x00060000-0x00260000 : "kernel"
+0x00260000-0x10000000 : "root"
+s3c2410-ohci s3c2410-ohci: S3C24XX OHCI
+s3c2410-ohci s3c2410-ohci: new USB bus registered, assigned bus number 1
+s3c2410-ohci s3c2410-ohci: irq 42, io mem 0x49000000
+usb usb1: configuration #1 chosen from 1 choice
+hub 1-0:1.0: USB hub found
+hub 1-0:1.0: 2 ports detected
+Initializing USB Mass Storage driver...
+usbcore: registered new interface driver usb-storage
+USB Mass Storage support registered.
+mice: PS/2 mouse device common for all mice
+s3c2410 TouchScreen successfully loaded
+input: s3c2410 TouchScreen as /class/input/input0
+S3C24XX RTC, (c) 2004,2006 Simtec Electronics
+s3c2440-i2c s3c2440-i2c: slave address 0x10
+s3c2440-i2c s3c2440-i2c: bus frequency set to 390 KHz
+s3c2440-i2c s3c2440-i2c: i2c-0: S3C I2C adapter
+mapped channel 0 to 0
+s3c2440-sdi s3c2440-sdi: powered down.
+s3c2440-sdi s3c2440-sdi: initialisation done.
+s3c2440-sdi s3c2440-sdi: running at 0kHz (requested: 0kHz).
+s3c2440-sdi s3c2440-sdi: running at 196kHz (requested: 195kHz).
+s3c2440-sdi s3c2440-sdi: running at 196kHz (requested: 195kHz).
+s3c2440-sdi s3c2440-sdi: running at 196kHz (requested: 195kHz).
+usbcore: registered new interface driver hiddev
+s3c2440-sdi s3c2440-sdi: CMD[TIMEOUT] #2 op:UNKNOWN(8) arg:0x000001aa flags:0x0875 retries:0 Status:nothing to complete
+s3c2440-sdi s3c2440-sdi: CMD[TIMEOUT] #3 op:APP_CMD(55) arg:0x00000000 flags:0x0875 retries:0 Status:nothing to complete
+usbcore: registered new interface driver usbhid
+drivers/hid/usbhid/hid-core.c: v2.6:USB HID core driver
+Advanced Linux Sound Architecture Driver Version 1.0.14 (Thu May 31 09:03:25 2007 UTC).
+ASoC version 0.13.1
+s3c2440-sdi s3c2440-sdi: CMD[TIMEOUT] #4 op:APP_CMD(55) arg:0x00000000 flags:0x0875 retries:0 Status:nothing to complete
+s3c2440-sdi s3c2440-sdi: CMD[TIMEOUT] #5 op:APP_CMD(55) arg:0x00000000 flags:0x0875 retries:0 Status:nothing to complete
+s3c2410iis_probe...
+s3c2440-sdi s3c2440-sdi: CMD[TIMEOUT] #6 op:APP_CMD(55) arg:0x00000000 flags:0x0875 retries:0 Status:nothing to complete
+s3c2440-sdi s3c2440-sdi: CMD[TIMEOUT] #7 op:ALL_SEND_OCR(1) arg:0x00000000 flags:0x0861 retries:0 Status:nothing to complete
+s3c2440-sdi s3c2440-sdi: powered down.
+UDA1341 audio driver initialized
+ALSA device list:
+  No soundcards found.
+TCP cubic registered
+NET: Registered protocol family 1
+drivers/rtc/hctosys.c: unable to open rtc device (rtc0)
