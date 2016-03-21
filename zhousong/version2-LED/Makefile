@@ -1,7 +1,7 @@
 ifneq ($(KERNELRELEASE),)
 obj-m   :=sam_led.o
 else
-KERN_DIR = /root/linux-2.6.22.6
+KERN_DIR = /home/sam/linux-2.6.22.6
 
 all:
 	make -C $(KERN_DIR) M=`pwd` modules 

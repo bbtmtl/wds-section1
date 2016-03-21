@@ -6,7 +6,7 @@ ifneq ($(KERNELRELEASE),)
 # Otherwise we were called directly from the command
 # line; invoke the kernel build system.
 else
-	KERNELDIR ?=  /root/linux-2.6.22.6
+	KERNELDIR ?=  /home/sam/linux-2.6.22.6
 	PWD :=$(shell pwd)
 
 default:
