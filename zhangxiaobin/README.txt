@@ -1,9 +1,7 @@
-# wds-section1
-wei-dong-shan 2440 LAB section 1
-git init
-git config --global user.name xiaobz
-git config --global user.email xiaobz2003@gmail.com
-git clone https://github.com/bbtmtl/wds-section1.git
-git remote add origin https://bbtmtl@github.com/bbtmtl/wds-section1.git
+user.name: xiaobz
+user.email: xiaobz2003@gmail.com
+
+theory_test_wds1.docx: the first theory test of wei_dongshan
+key_led.c: led test on the mini2440 bare board
 
 
