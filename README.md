@@ -35,7 +35,7 @@ git push -u origin master
 
   Username for 'https://github.com': bbtmtl
 
-  Password for 'https://bbtmtl@github.com': bbtbbt123
+  Password for 'https://bbtmtl@github.com': xxxxxx123 (for secure reason, not show the password)
 
 # Eclipse + Egit插件
 参看： http://blog.csdn.net/luckarecs/article/details/7427605
